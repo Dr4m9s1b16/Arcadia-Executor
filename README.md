@@ -9,8 +9,6 @@ Getting started with **Arcadia Executor** is simple and fast:
 ## 📌 About  
 🚀 **Arcadia Executor** is a powerful and efficient **Roblox script executor** built for seamless script execution, high performance, and an intuitive user interface. It is fully compatible with the latest Roblox updates, ensuring a smooth and secure experience for gamers, developers, and modding enthusiasts.  
 
-![Previewv](/assets/Arcadia.jpg)
-
 ## 📑 Table of Contents  
 - [Introduction](#introduction)  
 - [Features](#features)  
